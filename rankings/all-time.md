@@ -1,1 +1,16 @@
-
+* 1. gore | Franz Burghardt | Austria: 2.9
+* 2. CHEF-KOCH | David Nagel | Germany: 2.24
+* 3. dsn | Harley Örwall | Sweden: 1.77
+* 4. vilden | Christian Lidström | Sweden: 1.74
+* 5. chief | Daniel Leichtle | Germany: 1.51
+* 6. XeqtR | Jørgen Johannessen | Norway: 1.34
+* 7. elemeNt | Ola Moum | Norway: 1.33
+* 8. walle | Dennis Wallenberg | Sweden: 1.23
+* 9. speedi | Michel Gewargis | Sweden: 0.99
+* 10. Blizzard | Christian Chmiel | Germany: 0.98
+* 11. IsKall | Fredrik Persson | Sweden: 0.9
+* 12. shaGuar | Griffin Benger | Canada: 0.83
+* 13. Robin | Robin Gillberg | Sweden: 0.55
+* 14. neo | Michael Mitrega | Germany: 0.42
+* 15. zaki | Sakchai Kaenjan | Thailand: 0.17
+* 16. Bullen | Björn Wall | Sweden: 0.11
