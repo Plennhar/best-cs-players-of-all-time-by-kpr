@@ -28,7 +28,7 @@ This project ranks Counter-Strike (Counter-Strike, Counter-Strike: Global Offens
 24. 🇮🇱 **Nertz**: 1.84
 25. 🇺🇦 **w0nderful**: 1.76
 
-## Current All Time List
+## All Time List (2004-2005)
 1. 🇺🇦 **s1mple**: 63.51
 2. 🇫🇷 **ZywOo**: 59.8
 3. 🇧🇦 **NiKo**: 58.18
