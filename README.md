@@ -30,7 +30,7 @@ Place | Country | Nickname | Score
 24 | 🇮🇱 | Nertz | 3.14
 25 | 🇺🇦 | w0nderful | 2.86
 
-## All Time List (2004 - 2025)
+## All Time List (2005 - 2025)
 Place | Country | Nickname | Score | 1st place | 2nd place | 3rd place | Years above average
 :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---:
 1 | 🇸🇪 | f0rest | 773.25 | 4 | 1 | 3 | 18
